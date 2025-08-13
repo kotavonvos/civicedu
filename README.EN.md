@@ -41,12 +41,9 @@ To create a resilient network, resistant to political interference, that equips 
 
 ## Call for Contributions
 
-CivicEdu warmly invites all passionate and committed individuals, regardless of their nationalities and professions, to join our network and contribute to the promotion of civic education in Africa. Whether you are a software engineer, blockchain developer, lawyer, educator, marketing professional, videographer, journalist, community organizers, hackers (ethical) or an expert in any other field, your expertise is valuable to enrich this ambitious and impactful project.
+CivicEdu warmly invites all passionate and committed individuals, regardless of their nationalities and professions, to join our network and contribute to the promotion of civic education in Africa. Whether you are a software engineer, blockchain developer, lawyer, educator, marketing professional, videographer, journalist, community organizers, hackers (ethical), social media creator, or an expert in any other field, your expertise is valuable to enrich this ambitious and impactful project.
 
 Your contribution can take many forms: creating educational content, technical development, communication, legal analysis, project management, community outreach, audiovisual production, and much more. Together, we will build a collaborative, decentralized, and innovative ecosystem that guarantees reliable, accessible resources immune to political pressures.
 
 Join us to make your voice heard, share your skills, and participate in a collective movement aimed at strengthening peaceful and informed civic participation across our continent.
-
-To contribute or learn more, contact us at kotavonvos@gmail.com.
-
 ***
