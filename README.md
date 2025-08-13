@@ -1,4 +1,4 @@
-# CivicEdu:  Civic Empowerment Education on the Blockchain 
+# CivicEdu:  Civic Empowerment via the Blockchain 
 
 [English](README.EN.md)
 
