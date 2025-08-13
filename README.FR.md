@@ -1,14 +1,14 @@
 # CivicEdu –  Éducation Civique par la Blockchain
 
 
-**CivicEdu** est un réseau blockchain dédié à la promotion de l’éducation civique en Afrique. Basée sur une plateforme transparente, immunisée contre les interférences politiques, CivicEdu connecte les communautés  africaines à des formateurs internationaux, partageant des expertises tactiques, stratégiques, psychologiques, technologiques, historiques et autres.
+**CivicEdu** est un réseau blockchain dédié à la promotion de l’éducation civique active en Afrique. Basée sur une plateforme transparente, immunisée contre les interférences politiques, CivicEdu connecte les communautés  africaines à des formateurs internationaux, partageant des expertises tactiques, stratégiques, psychologiques, technologiques, historiques,  médiatique, et autres.
 
 ---
 
 ## Résumé Complet
 À travers le monde, la participation civique pacifique est de plus en plus menacée — particulièrement dans de nombreux pays d’Afrique où les voix de l’opposition sont réduites au silence, les élections manipulées, les candidats exclus ou harcelés arbitrairement, les journalistes menacés ou assassinés, les avocats persécutés, et les communautés privées de voix et de représentation. Ces régimes maintiennent leur pouvoir en cultivant la loyauté des élites et des forces de sécurité, tandis que la population vit dans la peur systémique, une pauvreté aiguë et une absence totale d’éducation civique.  
 
-**CivicEdu**  répond à ce défi en créant un réseau blockchain pour promouvoir l’éducation civique en Afrique. Son infrastructure transparente, à l’abri des influences politiques, connecte les communautés africaines à des formateurs du monde entier, facilitant le partage de savoirs tactiques, stratégiques, psychologiques, technologiques, historiques, et autres.
+**CivicEdu**  répond à ce défi en créant un réseau blockchain pour promouvoir l’éducation civique active en Afrique. Son infrastructure transparente, à l’abri des influences politiques, connecte les communautés africaines à des formateurs du monde entier, facilitant le partage de savoirs tactiques, stratégiques, psychologiques, technologiques, historiques,  médiatique, et autres.
 
 A son cœur, cette DAO,  attribue des tokens aux formateurs en reconnaissance de leur contribution. Ces tokens confèrent des avantages tels qu’un statut au sein de la communauté, des droits de vote sur les décisions clés, et un accès privilégié aux ressources partagées. Ils favorisent ainsi la construction d’un réseau de leaders civiques compétents, confiants et connectés.
 
