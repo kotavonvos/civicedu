@@ -1,6 +1,6 @@
 # CivicEdu –  Civic Empowerment through Blockchain
 
-**CivicEdu** is a blockchain network dedicated to promoting civic education in Africa. Based on a transparent platform, immune to political interference, CivicEdu connects African communities to international trainers, sharing tactical, strategic, psychological, technological, historical, and other expertise.
+**CivicEdu** is a blockchain network dedicated to promoting active civic education in Africa. Based on a transparent platform that is immune to political interference, CivicEdu connects African communities to international trainers, sharing tactical, strategic, psychological, technological, historical, media and communications, and other expertise.
 
 ---
 
@@ -8,7 +8,7 @@
 
 Around the world, peaceful civic participation is increasingly threatened — particularly in many African countries where opposition voices are silenced, elections manipulated, candidates arbitrarily excluded or harassed, journalists threatened or killed, lawyers persecuted, and communities deprived of voice and representation. These regimes maintain power by cultivating loyalty among elites and security forces, while the population lives under systemic fear, acute poverty, and a total absence of civic education.
 
-**CivicEdu** addresses this challenge by creating a blockchain network to promote civic education in Africa. Its transparent infrastructure, protected from political influence, connects African communities with trainers worldwide, facilitating the sharing of tactical, strategic, psychological, technological, historical, and other knowledge.
+**CivicEdu** addresses this challenge by creating a blockchain network to promote active civic education in Africa. Its transparent infrastructure, protected from political influence, connects African communities with trainers worldwide, facilitating the sharing of tactical, strategic, psychological, technological, historical, media and communications, and other knowledge.
 
 At its core, this DAO issues tokens to trainers in recognition of their contributions. These tokens confer benefits such as community status, voting rights on key decisions, and privileged access to shared resources. They foster the building of a network of competent, confident, and connected civic leaders.
 
