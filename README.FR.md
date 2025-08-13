@@ -31,6 +31,13 @@ un contenu éducatif adapté et conforme à la mission incombe entièrement aux 
 - CivicEdu ne garantit aucun rendement financier lié à la détention de son token. Les échanges impliquant d’autres cryptomonnaies, telles que Bitcoin ou Ethereum, ne relèvent pas de sa responsabilité.
 
 
+## Appel à Contribution
+
+CivicEdu invite chaleureusement toutes les personnes passionnées et engagées, quelles que soient leurs professions, à rejoindre notre réseau et à contribuer à la promotion de l’éducation civique en Afrique. Que vous soyez ingénieur logiciel, développeur blockchain, avocat, éducateur, professionnel du marketing, vidéaste, journaliste, ou expert dans tout autre domaine, votre expertise est précieuse pour enrichir ce projet ambitieux et porteur de changement.
+
+Votre contribution peut prendre plusieurs formes : création de contenu éducatif, développement technique, communication, analyse juridique, gestion de projets, sensibilisation communautaire, production audiovisuelle, et bien plus encore. Ensemble, nous construirons un écosystème collaboratif, décentralisé et innovant, garantissant des ressources fiables, accessibles et immunisées contre les pressions politiques.
+
+Rejoignez-nous pour faire entendre votre voix, partager vos compétences, et participer à une dynamique collective qui vise à renforcer la participation civique pacifique et éclairée sur notre continent.
 
 ---
 
