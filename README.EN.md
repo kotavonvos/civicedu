@@ -6,13 +6,13 @@
 
 ## Extended Summary
 
-Around the world, peaceful civic participation is increasingly threatened — particularly in many African countries where opposition voices are silenced, elections manipulated, candidates arbitrarily excluded or harassed, journalists threatened or killed, lawyers persecuted, and communities deprived of voice and representation. These regimes maintain power by cultivating loyalty among elites and security forces, while the population lives under systemic fear, acute poverty, and a total absence of civic education.
+Across the globe, peaceful civic participation is under growing threat, particularly in many French-speaking African countries where opposition voices are silenced, elections manipulated, candidates arbitrarily excluded or harassed, journalists threatened or killed, lawyers persecuted, and communities stripped of meaningful representation. Such authoritarian regimes maintain power by cultivating loyalty among elites and security forces while repressing activists and dismantling the civic participation ecosystems essential for genuine social expression.
 
-**CivicEdu** addresses this challenge by creating a blockchain network to promote active civic education in Africa. Its transparent infrastructure, protected from political influence, connects African communities with trainers worldwide, facilitating the sharing of tactical, strategic, psychological, technological, historical, media and communications, and other knowledge.
+CivicEdu responds to this challenge by building a blockchain-based network that promotes active civic education in Africa. Its transparent, tamper-resistant infrastructure, shielded from political interference, links African communities with trainers worldwide, enabling the exchange of tactical, strategic, psychological, technological, historical, media, communications, and other vital knowledge.
 
-At its core, this DAO issues tokens to trainers in recognition of their contributions. These tokens confer benefits such as community status, voting rights on key decisions, and privileged access to shared resources. They foster the building of a network of competent, confident, and connected civic leaders.
+At its core, CivicEdu operates as a decentralized autonomous organization (DAO) that issues tokens to trainers in recognition of their contributions. These tokens grant benefits such as community status, voting rights on key decisions, and privileged access to shared resources, cultivating a network of competent, confident, and connected civic leaders.
 
-**CivicEdu** thus functions as a decentralized academy where skill recognition takes the form of tokens, enabling trainers to carry their reputation beyond borders, platforms, and communities.
+In essence, CivicEdu serves as a decentralized academy where skill recognition is token-based, allowing trainers to carry their reputations across borders, platforms, and communities.
 
 ---
 
