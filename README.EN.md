@@ -54,17 +54,21 @@ Join us to make your voice heard, share your skills, and participate in a collec
 ## Example Research Topics
 The following list illustrates a wide array of research topics aimed at empowering educators with practical content to develop and adapt impactful lessons. These topics span from technological solutions and grassroots organizing strategies to psychological preparedness and culturally relevant approaches, reflecting the diverse needs of civic educationtraining. By exploring and advancing knowledge in these areas, researchers  contribute valuable insights and tools that educators can tailor for their specific communities and needs, enhancing the effectiveness and resilience of civic engagement efforts.
 
-
-|  Topic                                                  |  Topic                                                  |
-|----------------------------------------------------------------|----------------------------------------------------------------|
-| Creating Bluetooth mesh networks to avoid censorship           | Setting up captive portals on public Wi-Fi for message spreading|
-| Communicating when telco networks are shut down | Rapid creation and dissemination of brochures and flyers       |
-| Understanding and countering media manipulation tactics        | Mass mobilization and grassroots organizing strategies          |
-| Using animation, art, music, and storytelling for civic engagement |Mobilizing radio broadcasts and community projection events  |
-| Educating on nonviolent resistance methodologies and strategy   | Role-playing safe protest behaviors and police interaction      |
-| Formation tactics during protests (linking arms, movement, rotations) | Techniques to deal with tear gas exposure                        |
-| Basic first aid for tear gas and protest-related injuries       | Building psychological resilience and moral discipline in protesters |
-| Using affinity groups for mutual support and coordination       | Training on legal rights and peaceful civil disobedience        |
-| Risk assessment and consequences management during protests     | Combining traditional grassroots and digital organizing tools   |
-| Leveraging WhatsApp for remote civic education and microlearning  | Training trainers to spread civic and protest skills in communities |
-| Organizing community dialogues and solidarity-building activities | Protecting activists’ privacy through secure digital identity management |
+|---------------------------------------------------------|---------------------------------------------------------|
+| Topic                                                   | Topic                                                   |
+|---------------------------------------------------------|---------------------------------------------------------|
+| Creating Bluetooth mesh networks to avoid censorship     | Portals captifs on public Wi-Fi for message spreading    |
+| Communicating during telecom shutdowns                   | Rapid creation and dissemination of brochures            |
+| Countering media manipulation                            | Mass mobilization and grassroots organizing strategies    |
+| Animation, art, music, and storytelling for engagement  | Radio broadcasts and community projection events          |
+| Nonviolent resistance methodologies and strategy        | Role-playing safe protest behaviors and police interaction|
+| Formation tactics in protests (linking arms, rotations) | Techniques for handling tear gas exposure                  |
+| Basic first aid for tear gas and protest injuries        | Building psychological resilience and moral discipline    |
+| Using affinity groups for mutual support and coordination| Training on legal rights and peaceful civil disobedience  |
+| Risk assessment and consequence management during protests| Combining traditional grassroots and digital organizing  |
+| Leveraging WhatsApp for remote civic education           | Training trainers to spread civic and protest skills       |
+| Organizing community dialogues and solidarity activities | Protecting activists’ privacy with secure digital identity|
+| Logistics of citizen mobilization campaigns (water, food, first aid) | Producing engaging content with CapCut and Canva          |
+| Safety marshals and de-escalation teams to keep protests peaceful | Transportation logistics and support for protesters       |
+| Inspiring collective action | Community Intelligence Gathering |
+|---------------------------------------------------------|---------------------------------------------------------|
