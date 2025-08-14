@@ -51,20 +51,23 @@ Rejoignez-nous pour faire entendre votre voix, partager vos compétences, et par
 ---
 
 ## Exemples de sujets de recherche  
-Cette liste présente divers sujets pour aider les éducateurs à créer et adapter des leçons pratiques et impactantes. Les thèmes couvrent des solutions technologiques, des stratégies d’organisation, la préparation psychologique et des approches culturelles, afin de renforcer l’engagement civique et la résistance pacifique.
+La liste suivante illustre un large éventail de sujets de recherche visant à donner aux éducateurs un contenu pratique pour développer et adapter des leçons impactantes. Ces sujets couvrent des solutions technologiques, des stratégies d’organisation à la base, la préparation psychologique et des approches culturellement pertinentes, reflétant la diversité des besoins en formation à l’éducation civique. En explorant et en faisant progresser les connaissances dans ces domaines, les chercheurs apportent des informations et des outils précieux que les éducateurs peuvent adapter aux spécificités de leurs communautés et de leurs besoins, renforçant ainsi l’efficacité et la résilience des actions d’engagement civique.
 
 | Sujet                                                   | Sujet                                                   |
 |---------------------------------------------------------|---------------------------------------------------------|
-| Création de réseaux Bluetooth maillés anti-censure     | Portails captifs sur Wi-Fi public pour diffuser des messages |
-| Communiquer lors de coupures télécom                    | Création rapide et diffusion de brochures               |
-| Contrer la manipulation médiatique                       | Mobilisation de masse et organisation à la base         |
-| Animation, art, musique et storytelling pour l’engagement civique | Radio et projections communautaires                      |
-| Méthodologies de résistance non violente                 | Jeux de rôle sur comportements sûrs et interactions police|
-| Tactiques de formation en manifestation                   | Techniques pour gérer le gaz lacrymogène                  |
-| Premiers secours pour gaz lacrymogène                     | Résilience psychologique et discipline morale             |
-| Groupes d’affinité pour soutien et coordination          | Droits légaux et désobéissance civile pacifique           |
-| Évaluation des risques et gestion des conséquences        | Outils d’organisation traditionnels et numériques          |
-| WhatsApp pour formation à distance                        | Formation des formateurs en compétences civiques et protestataires |
-| Dialogues communautaires et renforcement de la solidarité | Protection de la vie privée via gestion sécurisée d’identité numérique |
+| Création de réseaux maillés Bluetooth pour éviter la censure | Portails captifs sur Wi-Fi public pour diffuser des messages |
+| Communication lors de coupures télécom                   | Création rapide et diffusion de brochures               |
+| Contre-manipulation des médias                           | Mobilisation de masse et stratégies d’organisation à la base |
+| Animation, art, musique et storytelling pour l’engagement | Émissions radio et projections communautaires           |
+| Méthodologies et stratégies de résistance non violente  | Jeux de rôle sur comportements sûrs et interactions avec la police |
+| Tactiques de formation en manifestation (enchaînement des bras, rotations) | Techniques pour gérer l’exposition au gaz lacrymogène    |
+| Premiers secours de base pour gaz lacrymogène et blessures liées aux manifestations | Renforcement de la résilience psychologique et discipline morale |
+| Utilisation de groupes d’affinité pour soutien mutuel et coordination | Formation sur les droits légaux et la désobéissance civile pacifique |
+| Évaluation des risques et gestion des conséquences lors des manifestations | Combinaison des outils d’organisation traditionnels et numériques |
+| Utilisation de WhatsApp pour la formation civique à distance | Formation des formateurs pour diffuser compétences civiques et protestataires |
+| Organisation de dialogues communautaires et activités de solidarité | Protection de la vie privée des activistes via une gestion sécurisée de l’identité numérique |
+| Logistique des campagnes de mobilisation citoyenne (eau, nourriture, premiers secours) | Production de contenus attractifs avec CapCut et Canva    |
+| Marshals de sécurité et équipes de désescalade pour maintenir des manifestations pacifiques | Logistique de transport et soutien aux manifestants      |
+| Inspiration à l’action collective                        | Collecte d’informations communautaires                   |
 
 
