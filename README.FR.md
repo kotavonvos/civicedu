@@ -17,6 +17,13 @@ A son cœur, cette DAO,  attribue des tokens aux formateurs en reconnaissance de
 
 ---
 
+## Nous rejoindre
+- **Email** kotavonvos@gmail.com
+- **Suivez nos actualités** sur [Twitter / Autre réseau]  
+- **Participez aux discussions** sur [Discord / Forum]  
+- **Proposez du code ou des idées de gouvernance** via Pull Requests  
+---
+
 ## Vision
 Créer un réseau résilient, résistant aux interférences politiques, qui dote des millions d’Africains des compétences, de la confiance et des connexions nécessaires pour renforcer une participation civique pacifique.
 
@@ -39,11 +46,21 @@ Votre contribution peut prendre plusieurs formes : création de contenu éducati
 
 Rejoignez-nous pour faire entendre votre voix, partager vos compétences, et participer à une dynamique collective qui vise à renforcer la participation civique pacifique et éclairée sur notre continent.
 
+
 ---
+## Exemples de sujets de recherche  
+Cette liste présente divers sujets pour aider les éducateurs à créer et adapter des leçons pratiques et impactantes. Les thèmes couvrent des solutions technologiques, des stratégies d’organisation, la préparation psychologique et des approches culturelles, afin de renforcer l’engagement civique et la résistance pacifique.
 
-## Nous rejoindre
-- **Email** kotavonvos@gmail.com
-- **Suivez nos actualités** sur [Twitter / Autre réseau]  
-- **Participez aux discussions** sur [Discord / Forum]  
-- **Proposez du code ou des idées de gouvernance** via Pull Requests  
-
+| Sujet                                                   | Sujet                                                   |
+|---------------------------------------------------------|---------------------------------------------------------|
+| Création de réseaux Bluetooth maillés anti-censure     | Portails captifs sur Wi-Fi public pour diffuser des messages |
+| Communiquer lors de coupures télécom                    | Création rapide et diffusion de brochures               |
+| Contrer la manipulation médiatique                       | Mobilisation de masse et organisation à la base         |
+| Animation, art, musique et storytelling pour l’engagement civique | Radio et projections communautaires                      |
+| Méthodologies de résistance non violente                 | Jeux de rôle sur comportements sûrs et interactions police|
+| Tactiques de formation en manifestation                   | Techniques pour gérer le gaz lacrymogène                  |
+| Premiers secours pour gaz lacrymogène                     | Résilience psychologique et discipline morale             |
+| Groupes d’affinité pour soutien et coordination          | Droits légaux et désobéissance civile pacifique           |
+| Évaluation des risques et gestion des conséquences        | Outils d’organisation traditionnels et numériques          |
+| WhatsApp pour formation à distance                        | Formation des formateurs en compétences civiques et protestataires |
+| Dialogues communautaires et renforcement de la solidarité | Protection de la vie privée via gestion sécurisée d’identité numérique |
