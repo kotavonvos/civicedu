@@ -36,6 +36,7 @@ Elles ne constituent en aucun cas une recommandation ni une production de conten
 pédagogique, la responsabilité de concevoir, sélectionner et diffuser 
 un contenu éducatif adapté et conforme à la mission incombe entièrement aux formateurs, à l’instar des pratiques observées dans les universités.
 - CivicEdu ne garantit aucun rendement financier lié à la détention de son token. Les échanges impliquant d’autres cryptomonnaies, telles que Bitcoin ou Ethereum, ne relèvent pas de sa responsabilité.
+---
 
 
 ## Appel à Contribution
@@ -48,6 +49,7 @@ Rejoignez-nous pour faire entendre votre voix, partager vos compétences, et par
 
 
 ---
+
 ## Exemples de sujets de recherche  
 Cette liste présente divers sujets pour aider les éducateurs à créer et adapter des leçons pratiques et impactantes. Les thèmes couvrent des solutions technologiques, des stratégies d’organisation, la préparation psychologique et des approches culturelles, afin de renforcer l’engagement civique et la résistance pacifique.
 
@@ -64,3 +66,5 @@ Cette liste présente divers sujets pour aider les éducateurs à créer et adap
 | Évaluation des risques et gestion des conséquences        | Outils d’organisation traditionnels et numériques          |
 | WhatsApp pour formation à distance                        | Formation des formateurs en compétences civiques et protestataires |
 | Dialogues communautaires et renforcement de la solidarité | Protection de la vie privée via gestion sécurisée d’identité numérique |
+
+
