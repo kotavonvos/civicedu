@@ -54,7 +54,6 @@ Join us to make your voice heard, share your skills, and participate in a collec
 ## Example Research Topics
 The following list illustrates a wide array of research topics aimed at empowering educators with practical content to develop and adapt impactful lessons. These topics span from technological solutions and grassroots organizing strategies to psychological preparedness and culturally relevant approaches, reflecting the diverse needs of civic educationtraining. By exploring and advancing knowledge in these areas, researchers  contribute valuable insights and tools that educators can tailor for their specific communities and needs, enhancing the effectiveness and resilience of civic engagement efforts.
 
-|---------------------------------------------------------|---------------------------------------------------------|
 | Topic                                                   | Topic                                                   |
 |---------------------------------------------------------|---------------------------------------------------------|
 | Creating Bluetooth mesh networks to avoid censorship     | Portals captifs on public Wi-Fi for message spreading    |
@@ -70,5 +69,4 @@ The following list illustrates a wide array of research topics aimed at empoweri
 | Organizing community dialogues and solidarity activities | Protecting activists’ privacy with secure digital identity|
 | Logistics of citizen mobilization campaigns (water, food, first aid) | Producing engaging content with CapCut and Canva          |
 | Safety marshals and de-escalation teams to keep protests peaceful | Transportation logistics and support for protesters       |
-| Inspiring collective action | Community Intelligence Gathering |
-|---------------------------------------------------------|---------------------------------------------------------|
+| Inspiring collective action | Community Intelligence Gathering           |
