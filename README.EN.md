@@ -70,3 +70,56 @@ The following list illustrates a wide array of research topics aimed at empoweri
 | Logistics of citizen mobilization campaigns (water, food, first aid) | Producing engaging content with CapCut and Canva          |
 | Safety marshals and de-escalation teams to keep protests peaceful | Transportation logistics and support for protesters       |
 | Inspiring collective action | Community Intelligence Gathering           |
+
+
+## Bibliography on Nonviolent Resistance and Civic Engagement
+
+- Sharp, Gene.*198 Methods of Nonviolent Action*. The Albert Einstein Institution, 1973.  
+A classic and comprehensive catalog of operational nonviolent tactics, classified into protest, noncooperation, and intervention, widely used by activists globally.
+- Beer, Michael.*Civil Resistance Tactics in the 21st Century*. 2021.  
+An updated exploration of modern nonviolent strategies expanding upon Sharp's foundational work, introducing new categories and tactics adapted to contemporary digital and cultural realities[1][3].
+- Chenoweth, Erica.*Civil Resistance: What Everyone Needs to Know*. Oxford University Press, 2017.  
+Accessible overview emphasizing why nonviolent civil resistance movements succeed more often than violent ones with data analysis and case studies[8].
+- Chenoweth, Erica, and Maria J. Stephan.*Why Civil Resistance Works: The Strategic Logic of Nonviolent Conflict*. Columbia University Press, 2011.  
+Research-based analysis demonstrating the effectiveness and strategic logic behind nonviolent campaigns leading to democratic change[8].
+- Nepstad, Sharon Erickson, ed.*Nonviolent Struggle: Theories, Strategies, and Dynamics*. Oxford University Press, 2015.  
+Multidisciplinary case studies and theoretical perspectives on peaceful protest movements globally.
+- Schock, Kurt, ed.*Civil Resistance: Comparative Perspectives on Nonviolent Struggle*. University of Minnesota Press, 2015.  
+Empirical research and diverse frameworks focused on nonviolent movements worldwide.
+- Gandhi, Mahatma, and Bharatan Kumarappa.*Non-violent Resistance (Satyagraha)*. Schocken Books, 1961.  
+Foundational writings on the philosophy and practice of nonviolent resistance.
+- Ocharo, R. M., and Nyunya, J. O., eds.*Nonviolent Revolution*. Shirikon Publishers, 1995.  
+Case studies of nonviolent revolutions with analysis.
+- Hallward, Maia Carter, and Julie M. Norman, eds.*Nonviolent Resistance in the Second Intifada*. Palgrave Macmillan, 2011.  
+Examination of civil resistance during conflict situations.
+- Lambach, Daniel, et al.*Nonviolent Resistance and Democratic Consolidation*. Springer International Publishing, 2020.  
+Scholarly insights on peaceful resistance and its role in democratic transitions.
+- *A Guide to Civil Resistance: A Bibliography of People Power and Nonviolent Protest*, Volumes 1 & 2. Merlin Press, 2013 & 2015.  
+Extensive bibliographic resources covering global civil resistance movements since 1945.
+- Luttrell, Regina, and Adrienne A. Wallace (eds.).*Strategic Social Media as Activism: Repression, Resistance, Rebellion, Reform* (2023)  
+Analysis of social media's role in modern activism, including case studies on digital communication strategies in movements like Black Lives Matter.
+- White, Micah.*The End of Protest: A New Playbook for Revolution* (2016)  
+Innovative tactics and perspectives on the future of protests in the digital era.
+- Moyer, Bill with Joann McAllister et al.*Doing Democracy: The MAP Model for Organizing Social Movements* (2001)  
+Practical framework of social movement stages, roles, and long-term success strategies with diverse case studies.
+- Canning, Doyle and Patrick Reinsborough.*Re:Imagining Change: How to Use Story-Based Strategy to Win Campaigns, Build Movements and Change the World* (2017)  
+Focus on culture, media, storytelling, and memes as tools for social change, blending creative strategy with practical examples.
+- Engler, Paul & Sophie Lasoff.*Resistance Guide: How to Sustain the Movement to Win* (2017)  
+Tactical handbook on shifting public opinion, changing laws, and sustaining social movements.
+- Sachs, Jonah.*Winning the Story Wars: Why Those Who Tell (and Live) the Best Stories Will Rule the Future* (2012)  
+Exploring storytelling and media strategy central to activism success.
+- Ackerman, Peter and Jack DuVall.*A Force More Powerful: A Century of Nonviolent Conflict* (2000)  
+History and analysis of global successful nonviolent resistance movements.
+- Gallagher, Nora and Lisa Myers.*Tools for Grassroots Activists* (2016)  
+Practical guide covering communication, organizing, campaign planning, and overcoming activist obstacles.
+- Starhawk.*Webs of Power: Notes from the Global Uprising* (2002)  
+Firsthand account of major protests with insights on organizing and direct action.
+- *Nonviolent Resistance Innovations in Practice* (2023)  
+Multi-contributor handbook covering novel practical applications of nonviolent resistance, blending theory with frontline experience.
+- *Nonviolent Struggle and Social Defence* by War Resisters' International (2004)  
+Theories and practical frameworks to organize nonviolent societal defense efforts.
+- *We the Resistance* (2019)  
+Documented histories and primary sources on nonviolent protest and progressive activism in North America, focusing on practical campaigns and methods.
+- *Manual Psychological Operations in Guerrilla Warfare (Large Print Edition)*: A tactical manual for the revolutionary. First published by the Central Intelligence Agency and distributed to the Contras in Central America.  
+Offers detailed insights on psychological operations emphasizing information, perception management, and nonviolent strategic influence, adaptable for peaceful civic contexts.
+
