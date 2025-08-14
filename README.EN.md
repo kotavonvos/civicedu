@@ -4,7 +4,7 @@
 
 ---
 
-## Extended Summary
+## Extended Abstract
 
 Across the globe, peaceful civic participation is under growing threat, particularly in many French-speaking African countries where opposition voices are silenced, elections manipulated, candidates arbitrarily excluded or harassed, journalists threatened or killed, lawyers persecuted, and communities stripped of meaningful representation. Such authoritarian regimes maintain power by cultivating loyalty among elites and security forces while repressing activists and dismantling the civic participation ecosystems essential for genuine social expression.
 
