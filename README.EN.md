@@ -58,7 +58,7 @@ The following list illustrates a wide array of research topics aimed at empoweri
 |  Topic                                                  |  Topic                                                  |
 |----------------------------------------------------------------|----------------------------------------------------------------|
 | Creating Bluetooth mesh networks to avoid censorship           | Setting up captive portals on public Wi-Fi for message spreading|
-| Communicating when telco networks are shut down (satellite phones, offline mesh) | Rapid creation and dissemination of brochures and flyers       |
+| Communicating when telco networks are shut down | Rapid creation and dissemination of brochures and flyers       |
 | Understanding and countering media manipulation tactics        | Mass mobilization and grassroots organizing strategies          |
 | Using animation, art, music, and storytelling for civic engagement |Mobilizing radio broadcasts and community projection events  |
 | Educating on nonviolent resistance methodologies and strategy   | Role-playing safe protest behaviors and police interaction      |
