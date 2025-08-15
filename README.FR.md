@@ -1,6 +1,6 @@
 # CivicEdu –  Éducation Civique par la Blockchain
 
-CivicEdu est un réseau basé sur la blockchain, dédié à la promotion de l’éducation civique active en Afrique. Reposant sur une plateforme transparente et protégée de toute interférence politique, CivicEdu met en relation les communautés africaines avec des formateurs, chercheurs et experts internationaux, qui partagent leurs savoir-faire tactiques, stratégiques, psychologiques, technologiques, historiques, médiatiques et bien plus encore. Le CivicEdu Token sert à rémunérer ces contributeurs tout en offrant à la diaspora un moyen direct, anonyme et transparent de participer à la construction de leur pays d’origine.
+CivicEdu est un réseau blockchain, dédié à la promotion de l’éducation civique active en Afrique. Reposant sur une plateforme transparente et protégée de toute interférence politique, CivicEdu met en relation les communautés africaines avec des formateurs, chercheurs et experts internationaux, qui partagent leurs savoir-faire tactiques, stratégiques, psychologiques, technologiques, historiques, médiatiques et bien plus encore. Le CivicEdu Token sert à rémunérer ces contributeurs tout en offrant à la diaspora un moyen direct, anonyme et transparent de participer à la construction de leur pays d’origine.
 
 ---
 
