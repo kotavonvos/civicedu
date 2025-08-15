@@ -6,14 +6,13 @@
 ---
 
 ## Résumé Complet
-À travers le monde, la participation civique pacifique est de plus en plus menacée — particulièrement dans de nombreux pays d’Afrique où les voix de l’opposition sont réduites au silence, les élections manipulées, les candidats exclus ou harcelés arbitrairement, les journalistes menacés ou assassinés, les avocats persécutés, et les communautés privées de voix et de représentation. Ces régimes maintiennent leur pouvoir en cultivant la loyauté des élites et des forces de sécurité, tandis que la population vit dans la peur systémique, une pauvreté aiguë et une absence totale d’éducation civique.  
+À travers le monde, la participation civique pacifique est de plus en plus menacée, particulièrement dans de nombreux pays d’Afrique francophone où les voix de l’opposition sont réduites au silence, les élections manipulées, les candidats exclus ou harcelés arbitrairement, les journalistes menacés ou assassinés, les avocats persécutés, et les communautés privées de représentation. Ces régimes maintiennent leur pouvoir en cultivant la loyauté des élites et des forces de sécurité, tout en réprimant les militants et en démantelant les écosystèmes de participation civique essentiels à une expression sociale authentique.
 
-**CivicEdu**  répond à ce défi en créant un réseau blockchain pour promouvoir l’éducation civique active en Afrique. Son infrastructure transparente, à l’abri des influences politiques, connecte les communautés africaines à des formateurs du monde entier, facilitant le partage de savoirs tactiques, stratégiques, psychologiques, technologiques, historiques,  médiatique, et autres.
+CivicEdu répond à ce défi en créant un réseau basé sur la blockchain pour promouvoir l’éducation civique active en Afrique. Son infrastructure transparente et infalsifiable, à l’abri de toute influence politique, connecte les communautés africaines à des formateurs et chercheurs du monde entier et facilite le partage de savoirs tactiques, stratégiques, psychologiques, technologiques, historiques, médiatiques, communicationnels et autres connaissances essentielles.
 
-A son cœur, cette DAO,  attribue des tokens aux formateurs en reconnaissance de leur contribution. Ces tokens confèrent des avantages tels qu’un statut au sein de la communauté, des droits de vote sur les décisions clés, et un accès privilégié aux ressources partagées. Ils favorisent ainsi la construction d’un réseau de leaders civiques compétents, confiants et connectés.
+Au cœur du dispositif, CivicEdu fonctionne comme une organisation autonome décentralisée (DAO) qui attribue des tokens aux formateurs, chercheurs et experts nationaux et internationaux en reconnaissance de leurs contributions. Ces tokens offrent des avantages tels qu’un statut au sein de la communauté et des droits de vote sur les décisions clés, contribuant à bâtir un réseau de leaders civiques compétents, confiants et interconnectés. Le système de tokens permet également aux membres de la diaspora africaine de sponsoriser la croissance de cet écosystème militant en achetant des tokens auprès de détenteurs existants. Cela leur offre un moyen directe, anonyme et transparent de renforcer leur statut et de soutenir l’éducation civique, sans crainte de représailles de la part de gouvernements autoritaires.
 
-**CivicEdu** fonctionne donc comme une académie décentralisée où la reconnaissance des compétences prend la forme de tokens,  permettant aux formateurs de porter leur réputation au-delà des frontières, des plateformes et des communautés.
-
+CivicEdu agit comme une académie décentralisée où la reconnaissance des compétences prend la forme de tokens, permettant aux formateurs de porter leur réputation au-delà des frontières, des plateformes et des communautés.
 
 ---
 
