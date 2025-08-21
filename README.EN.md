@@ -1,18 +1,16 @@
-# CivicEdu –  Civic Empowerment through Blockchain
+# Activate Africa –  Civic Empowerment through Blockchain
 
-CivicEdu is a blockchain network dedicated to promoting active civic education in Africa. Built on a transparent platform protected from political interference, CivicEdu connects African communities with international trainers, researchers, and  experts who share tactical, strategic, psychological, technological, historical, media, and other forms of expertise. Its token is used to compensate contributors while offering the diaspora and donors a direct, anonymous, and transparent way to participate in the development of these countries.
+Activate Africa is a school dedicated to fostering active and peaceful civic education across the continent. It connects African citizens with global experts to facilitate the exchange of knowledge and experiences in fields such as tactics, strategy, psychology, technology, history, media, and more. Additionally, Activate Africa integrates a crypto token to compensate experts for their valuable contributions.
 
 ---
 
 ##  Abstract
 
-Across the globe, peaceful civic participation is under growing threat, particularly in many French-speaking African countries where opposition voices are silenced, elections manipulated, candidates arbitrarily excluded or harassed, journalists threatened or killed, lawyers persecuted, and communities stripped of meaningful representation. Authoritarian regimes maintain power by cultivating loyalty among elites and security forces while suppressing activists and dismantling the civic participation ecosystems essential for genuine social expression.
+Across Africa, peaceful civic participation is increasingly under threat, particularly in many French-speaking countries where opposition voices are silenced, elections manipulated, candidates arbitrarily excluded or harassed, journalists threatened or killed, lawyers persecuted, and communities denied meaningful representation. Authoritarian regimes maintain their power by securing loyalty among elites and security forces while suppressing activists and dismantling the civic ecosystems essential for authentic social expression.
 
-CivicEdu responds to this challenge by creating a blockchain-based network that promotes active civic education in Africa. Its transparent, tamper-resistant infrastructure, free from political interference, connects African communities with trainers worldwide and supports the exchange of tactical, strategic, psychological, technological, historical, media, communications, and other vital knowledge.
+Activate Africa responds to this challenge by establishing a school dedicated to fostering active and peaceful civic education across the continent. It connects African citizens with global experts to facilitate the exchange of knowledge and experiences in fields such as tactics, strategy, psychology, technology, history, media, and more. Additionally, Activate Africa integrates a utility token system to fairly compensate experts for their valuable contributions.
 
-At its core, CivicEdu operates as a decentralized autonomous organization (DAO) that issues tokens to trainers in recognition of their contributions. These tokens provide benefits such as community status, voting rights on key decisions, and privileged access to shared resources, building a network of competent, confident, and connected civic leaders. The token system also allows members of the African diaspora to sponsor the growth of this activist ecosystem by purchasing tokens from existing holders. This offers diaspora members a secure, anonymous, and transparent way to enhance their status and support civic education without risking retaliation from authoritarian governments.
-
-In essence, CivicEdu functions as a decentralized academy where skills are recognized through tokens, enabling trainers to carry their reputations across borders, platforms, and communities.
+These utility tokens confer benefits such as community status and voting rights on key decisions. They also empower contributors to build and carry their reputations across borders, time, platforms, and communities, thereby strengthening a network of trusted civic leaders.
 
 ---
 
