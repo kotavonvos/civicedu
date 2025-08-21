@@ -31,9 +31,9 @@ To create a resilient network, resistant to political interference, that equips 
 
 ## Important Notes
 
-- CivicEdu is a platform dedicated to promoting civic education. Analyses, reviews, or discussions published are research, reflection, and debate activities. They do not constitute recommendations or production of pedagogical content intended for teaching. Respecting academic freedom and pedagogical autonomy, the responsibility to design, select, and disseminate suitable educational content fitting the mission lies entirely with trainers, similar to practices in universities.
+- Activate Africa is a platform dedicated to promoting civic education. Analyses, reviews, or discussions published are research, reflection, and debate activities. They do not constitute recommendations or production of pedagogical content intended for teaching. Respecting academic freedom and pedagogical autonomy, the responsibility to design, select, and disseminate suitable educational content fitting the mission lies entirely with trainers, similar to practices in universities.
 
-- CivicEdu does not guarantee any financial return linked to holding its token. Transactions involving other cryptocurrencies, such as Bitcoin or Ethereum, are not its responsibility.
+- Activate Africa does not guarantee any financial return linked to holding its token. Transactions involving other cryptocurrencies, such as Bitcoin or Ethereum, are not its responsibility.
 
 
 
@@ -41,7 +41,7 @@ To create a resilient network, resistant to political interference, that equips 
 
 ## Call for Contributions
 
-CivicEdu warmly invites all passionate and committed individuals, regardless of their nationalities and professions, to join our network and contribute to the promotion of civic education in Africa. Whether you are a software engineer, blockchain developer, lawyer, educator, marketing professional, videographer, journalist, community organizers, hackers (ethical), social media creator, or an expert in any other field, your expertise is valuable to enrich this ambitious and impactful project.
+Activate Africa warmly invites all passionate and committed individuals, regardless of their nationalities and professions, to join our network and contribute to the promotion of civic education in Africa. Whether you are a software engineer, blockchain developer, lawyer, educator, marketing professional, videographer, journalist, community organizers, hackers (ethical), social media creator, or an expert in any other field, your expertise is valuable to enrich this ambitious and impactful project.
 
 Your contribution can take many forms: creating educational content, technical development, communication, legal analysis, project management, community outreach, audiovisual production, and much more. Together, we will build a collaborative, decentralized, and innovative ecosystem that guarantees reliable, accessible resources immune to political pressures.
 
