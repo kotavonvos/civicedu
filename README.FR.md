@@ -47,7 +47,8 @@ Rejoignez-nous pour faire entendre votre voix, partager vos compétences, et par
 ---
 
 ## Exemples de sujets de recherche  
-La liste suivante illustre un  éventail de sujets de recherche visant à donner aux éducateurs un contenu pratique pour développer et adapter des leçons impactantes. Ces sujets couvrent des solutions technologiques, des stratégies d’organisation à la base, la préparation psychologique et des approches culturellement pertinentes, reflétant la diversité des besoins en formation à l’éducation civique. En explorant et en faisant progresser les connaissances dans ces domaines, les chercheurs apportent des informations et des outils précieux que les éducateurs peuvent adapter aux spécificités de leurs communautés et de leurs besoins, renforçant ainsi l’efficacité et la résilience des actions d’engagement civique.
+La liste suivante illustre un éventail de sujets pour un éventuel renforcement des capacités. Ces thèmes couvrent des solutions technologiques, des stratégies d’organisation locale, la préparation psychologique et des approches culturellement adaptées, reflétant ainsi la diversité des besoins en matière de formation à l’éducation civique.
+
 
 | Sujet                                                   | Sujet                                                   |
 |---------------------------------------------------------|---------------------------------------------------------|
