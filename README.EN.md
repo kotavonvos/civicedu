@@ -48,9 +48,10 @@ Your contribution can take many forms: creating educational content, technical d
 Join us to make your voice heard, share your skills, and participate in a collective movement aimed at strengthening peaceful and informed civic participation across our continent.
 ***
 
---
+---
+
 ## Example Research Topics
-The following list illustrates a wide array of research topics aimed at empowering educators with practical content to develop and adapt impactful lessons. These topics span from technological solutions and grassroots organizing strategies to psychological preparedness and culturally relevant approaches, reflecting the diverse needs of civic educationtraining. By exploring and advancing knowledge in these areas, researchers  contribute valuable insights and tools that educators can tailor for their specific communities and needs, enhancing the effectiveness and resilience of civic engagement efforts.
+The following list illustrates an array of topics for potential empowerment. These topics span from technological solutions and grassroots organizing strategies to psychological preparedness and culturally relevant approaches, reflecting the diverse needs of civic education training. 
 
 | Topic                                                   | Topic                                                   |
 |---------------------------------------------------------|---------------------------------------------------------|
