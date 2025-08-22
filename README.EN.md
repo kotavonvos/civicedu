@@ -10,7 +10,7 @@ Across Africa, peaceful civic participation is increasingly under threat, partic
 
 Activate Africa responds to this challenge by establishing a school dedicated to fostering active and peaceful civic education across the continent. It connects African citizens with global experts to facilitate the exchange of knowledge and experiences in fields such as tactics, strategy, psychology, technology, history, media, and more. Additionally, Activate Africa integrates a utility token to compensate experts for their valuable contributions.
 
-These utility tokens confer benefits such as community status and voting rights on key decisions. They also empower contributors to build and carry their reputations across borders, time, platforms, and communities, thereby strengthening a network of trusted civic leaders.
+This utility token confers benefits such as community status and voting rights on key decisions in the school adminsitration. They also empower contributors to build and carry their reputations across borders, time, platforms, and communities, thereby strengthening a network of trusted civic leaders.
 
 ---
 
