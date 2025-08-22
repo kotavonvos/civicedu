@@ -1,6 +1,6 @@
 # Activate Africa – via Peaceful Civic Action
 
-Activate Africa is a school for active and peaceful civic education. It connects African citizens with global experts so they can exchange knowledge and experiences in fields such as tactics, strategy, psychology, leadership, technology, history, communication, and more. Additionally, Activate Africa integrates a blockchain utility token to compensate experts for their contributions.
+Activate Africa is a school for active and peaceful civic education. It stimulates exchange of knowledge and experiences between African citizens and global experts in fields such as tactics, strategy, psychology, leadership, technology, history, communication, and more. Additionally, Activate Africa integrates a blockchain utility token to compensate experts for their contributions.
 
 ---
 
