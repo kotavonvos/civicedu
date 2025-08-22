@@ -1,6 +1,6 @@
 # Activate Africa –  par une Education Civique Active
 
-Activate Africa est une école dédiée à la promotion d’une éducation civique active et pacifique à travers le continent. Elle met en relation les citoyens africains avec des experts internationaux afin de faciliter l’échange de connaissances et d’expériences dans des domaines tels que les tactiques, la stratégie, la psychologie, la technologie, l’histoire, les médias, et bien plus encore. De plus, Activate Africa intègre un jeton crypto pour rémunérer  les experts pour leurs précieuses contributions.
+Activate Africa est une école chargée de l'éducation civique active et pacifique à travers le continent. Elle met en relation les citoyens africains avec des experts internationaux pour l’échange de connaissances et d’expériences dans des domaines tels que les tactiques, la stratégie, le leadership, la psychologie, la technologie, l’histoire, la communication, et bien plus encore. De plus, Activate Africa intègre un jeton crypto pour rémunérer  les experts pour leurs précieuses contributions.
 
 ---
 
