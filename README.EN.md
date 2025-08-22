@@ -16,7 +16,7 @@ This utility token confers benefits such as community status and voting rights o
 
 ## Vision
 
-To create a resilient network, resistant to political interference, that equips millions of Africans with the skills, confidence, and connections necessary to strengthen peaceful civic participation.
+To create a resilient network, resistant to political interference, that equips millions of Africans with the skills, confidence, and connections necessary for effective peaceful civic participation.
 
 ---
 
